@@ -16,4 +16,4 @@ python setup.py py2app -A
 ./dist/Audio\ to\ SRT.app/Contents/MacOS/Audio\ to\ SRT
 ```
 
-### For production .dmg file generation check official docs of [http://py2app.readthedocs.io/](http://py2app.readthedocs.io/)
+### For production .dmg file generation check official docs of [py2app](http://py2app.readthedocs.io/)
